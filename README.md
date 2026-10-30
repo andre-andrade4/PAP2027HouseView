@@ -71,7 +71,7 @@ simplificado e uma interface intuitiva acessível a qualquer pessoa.
 ## Planeamento
 
 | Fase | Período | Estado |
-
+| --- | --- | --- |
 | Análise e modelação da base de dados | Novembro | Por fazer |
 | Desenvolvimento do núcleo mínimo | Dezembro – Março | Por fazer |
 | Desenvolvimento dos extras e do simulador VIEW | Março – Abril | Por fazer |
